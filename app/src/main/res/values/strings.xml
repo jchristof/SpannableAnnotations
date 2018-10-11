@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpannableTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="formatted_currency_span">
+        <annotation strike=""><annotation style="bold | italic">Best practices for</annotation>
+            <annotation bgcolor="green">
+                <annotation relative=".5">text</annotation>
+                <annotation under="">on Android</annotation>
+            </annotation>
+        </annotation></string>
+</resources>
